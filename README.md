@@ -15,5 +15,6 @@ Functionality should support the following:
 It will not be tested:
 * Whether the computer has multiple levels of complexity to its selection algorithm (only one simple one will do).
 * Whether the logs are shown on the webpage, or in console.
+* Whether the CPU will always win, lose, or tie. In short, as long as there is a win/lose condition, it is sufficient.
 
 #### Environment

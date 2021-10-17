@@ -1,6 +1,6 @@
 # rps-training
 
-Training repository for Design Create Solar: Software.
+Training repository for DCS: Software.
 Participants are tasked to design an application that allows users to play rock-paper-scissors with the computer.
 Visual frameworks and components are left to the discretion of the developer.
 
@@ -18,3 +18,8 @@ It will not be tested:
 * Whether the CPU will always win, lose, or tie. In short, as long as there is a win/lose condition, it is sufficient.
 
 #### Environment
+For this repository, we will be using **[Create React App](https://github.com/facebook/create-react-app)** to automatically set build preconfigurations (Webpack & Babel) for React development. 
+Main benefits:
+* Minimalistic build
+* Simple deployment
+* Client-side rendering & lack of SEO support will not impact performance.

@@ -29,6 +29,9 @@ Main benefits:
 - Simple deployment
 - Client-side rendering & lack of SEO support will not impact performance.
 
+To get started,
+- Clone the repository by typing in `git clone https://
+
 #### Want reference?
 You're free to take a look (for more details, visit my branch `solution`!:
 ![rpstraining](https://user-images.githubusercontent.com/44306479/137623449-1f9ebfd7-42ca-4a9a-b58d-039ba7835889.gif)

@@ -30,8 +30,14 @@ Main benefits:
 - Client-side rendering & lack of SEO support will not impact performance.
 
 To get started,
-- Clone the repository by typing in `git clone https://
+- Clone the repository by typing in `git clone https://github.com/sweeneyngo/rps-training.git`.
+- Go into your repository via `cd rps-training`.
+- Don't have the dependencies? `npm i`.
+- Want to run your application in development? `npm run start`.
 
+#### "Your instructions are confusing! I need more help!"
+- Reach out to me on Slack, or...
+- If it's a repository issue, create a New Issue under `Issues`, with an appropriate title, description of the bug/error, and mention your target branch.
 #### Want reference?
 You're free to take a look (for more details, visit my branch `solution`!:
 ![rpstraining](https://user-images.githubusercontent.com/44306479/137623449-1f9ebfd7-42ca-4a9a-b58d-039ba7835889.gif)
